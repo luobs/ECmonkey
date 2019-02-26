@@ -1,0 +1,65 @@
+Version:6.0
+
+model:hi6250
+
+brand:HONOR
+
+====================
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:48
+12-17 11:30:01.490 W/System.err( 2371): java.lang.SecurityException: getAllCellInfo: Neither user 10165 nor current process has android.permission.ACCESS_COARSE_LOCATION.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:725
+12-17 11:30:29.084 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:735
+12-17 11:30:29.110 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:745
+12-17 11:30:29.144 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:755
+12-17 11:30:29.145 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:985
+12-17 11:30:38.901 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:997
+12-17 11:30:38.917 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1006
+12-17 11:30:38.939 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1016
+12-17 11:30:38.940 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1036
+12-17 11:30:39.260 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1046
+12-17 11:30:39.261 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1055
+12-17 11:30:39.275 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1065
+12-17 11:30:39.275 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1772
+12-17 11:31:02.449 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1782
+12-17 11:31:02.463 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1791
+12-17 11:31:02.479 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:1801
+12-17 11:31:02.480 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2366
+12-17 11:31:12.820 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2376
+12-17 11:31:12.841 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2385
+12-17 11:31:12.859 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2395
+12-17 11:31:12.859 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2547
+12-17 11:31:15.947 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2557
+12-17 11:31:15.963 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2566
+12-17 11:31:15.976 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:2576
+12-17 11:31:15.977 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:3010
+12-17 11:31:33.093 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:3020
+12-17 11:31:33.098 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:3030
+12-17 11:31:33.123 W/System.err(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
+at C:\Users\ecuser\monkey\2018-12-17-11_29_43_logcat.log:3040
+12-17 11:31:33.124 E/DatabaseUtils(  930): java.lang.SecurityException: com.tencent.mm was not granted  this permission: android.permission.WRITE_SETTINGS.
